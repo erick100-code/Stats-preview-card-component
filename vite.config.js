@@ -8,5 +8,5 @@ export default defineConfig({
     react(),
     tailwindcss(),
   ],
-  base: '/Stats-preview-card-component',
+  base: '/Stats-preview-card-component/',
 })
